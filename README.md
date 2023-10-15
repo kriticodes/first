@@ -1,4 +1,4 @@
 # first
 first repository
 <br>
-this is my first repository
+created nwe file named as hello world.c
